@@ -1,0 +1,151 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./21.png",
+                "title": "QUALITY SERVICE",
+                "description": "we are committed to providing top-quality service to our clients. From the moment you step through our doors, our team of experienced professionals is dedicated to delivering exceptional results tailored to your unique needs and preferences."
+                
+            },
+            {
+                "id": 2,
+                "image": "./22.png",
+                "title": "EFFICIENT TIMING",
+                "description": "We understand that your time is valuable. That's why at Style Saloon, we prioritize efficient timing and fast delivery of our services. Whether you're popping in for a quick touch-up or treating yourself to a full  day, you can trust us to provide prompt and reliable service without compromising on quality." 
+            },
+            {
+                "id": 3,
+                "image": "./24.png",
+                "title": "LUXURIOUS EXPERIENCE",
+                "description": "Indulge in a luxurious experience at style saloon. From our upscale decor to our pampering treatments, every aspect of your visit is designed to make you feel like royalty. Relax and unwind as we cater to your every beauty need with the utmost care and attention to detail." 
+            }
+        ],
+        "styles": [
+            {
+                "id": 1,
+                "image": "./31.PNG",
+                "title": "Haircut and Styling",
+                "category": "Hair"
+            },
+            {
+                "id": 2,
+                "image": "./32.PNG",
+                "title": "Hair Coloring",
+                "category": "Hair"
+            },
+            {
+                "id": 3,
+                "image": "./33.PNG",
+                "title": "Hair Treatments",
+                "category": "Hair"
+            },
+            {
+                "id": 4,
+                "image": "./34.PNG",
+                "title": "Skincare",
+                "category": "Skin"
+            },
+            {
+                "id": 5,
+                "image": "./35.PNG",
+                "title": "Manicure and Pedicure",
+                "category": "Nail"
+            },
+            {
+                "id": 6,
+                "image": "./36.PNG",
+                "title": "Waxing",
+                "category": "Skin"
+            },
+            {
+                "id": 7,
+                "image": "./37.PNG",
+                "title": "Makeup Application",
+                "category": "Skin"
+            },
+            {
+                "id": 8,
+                "image": "./38.PNG",
+                "title": "Eyelash and Eyebrow Services",
+                "category": "Eyes"
+            }
+        ],
+        
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "100",
+                "title": "Services"
+            },
+            {
+                "id": 2,
+                "number": "09",
+                "title": "Team Members"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            }
+            
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "QUALITIES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "SERVICES",
+                "link": "popular"
+            },
+            {
+                "id": 5,
+                "title": "APPOINTMENT",
+                "link": "appointment"
+            },
+            {
+                "id": 6,
+                "title": "HELP",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
