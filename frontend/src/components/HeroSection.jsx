@@ -18,9 +18,8 @@ const HeroSection = () => {
               <div className="textWithSvg">
                 <h1 className="title">With</h1>
                 <h1 className="title styles_title">Style</h1>
-                <img src="./threelines.svg" alt="threelines" />
+                <img src="./hero3.jpeg" alt="threelines" />
               </div>
-              
             </div>
           </div>
         </div>
@@ -28,7 +27,7 @@ const HeroSection = () => {
           <div className="imageBox">
             <img src="hero2.PNG" alt="hero" />
           </div>
-          <h1 className="title styles_title">Style</h1>
+          <h1 className="title styles_title">Saloon</h1>
         </div>
       </div>
     </section>
